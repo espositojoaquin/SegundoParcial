@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1512568713 source:d:\rubini.luz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+	<string.h>
+
+1512567719 source:d:\rubini.luz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512563940 source:d:\rubini.luz\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512562406 d:\rubini.luz\arraylist.h
+
+1512566959 d:\rubini.luz\funciones.h
+
+1512569878 source:c:\users\alumno\desktop\rubini.luz\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512562406 c:\users\alumno\desktop\rubini.luz\arraylist.h
+
+1512570176 source:c:\users\alumno\desktop\rubini.luz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+	<string.h>
+
+1512570026 c:\users\alumno\desktop\rubini.luz\funciones.h
+
+1512570306 source:c:\users\alumno\desktop\rubini.luz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512569878 source:c:\users\alumno\desktop\rubini.luz-rsp-1c\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512562406 c:\users\alumno\desktop\rubini.luz-rsp-1c\arraylist.h
+
+1512570176 source:c:\users\alumno\desktop\rubini.luz-rsp-1c\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+	<string.h>
+
+1512570026 c:\users\alumno\desktop\rubini.luz-rsp-1c\funciones.h
+
+1512570587 source:c:\users\alumno\desktop\rubini.luz-rsp-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
